@@ -1,0 +1,23 @@
+h2 {
+	text-decoration: underline;
+	text-align: center;
+}
+
+p {
+	width: 700px;
+	margin: auto;
+}
+#me{
+	color: red;
+}
+#dad{
+	color: green;
+}
+#nature{
+	color: purple;
+}
+h1.title{
+	color: blue;
+	text-align: center;
+}
+	
